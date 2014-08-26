@@ -1,0 +1,13 @@
+# General
+.DS_Store
+
+# SBT
+target/
+
+# IntelliJ IDEA
+.idea/
+!.idea/runConfigurations/
+!.idea/dictionaries/
+
+
+*-shim.sbt
